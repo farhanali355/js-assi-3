@@ -1,0 +1,24 @@
+/* body{
+    text-align: center;
+    margin-top: 100px;
+    color: red;
+    
+}
+h2{
+    color: blue;
+    text-decoration: underline;
+    font-size: 55px;
+} */
+
+.con1{
+    display: flex;
+}
+.con2{
+    display: flex;
+}
+.con3{
+    display: flex;
+}
+.con4{
+    display: flex;
+}
